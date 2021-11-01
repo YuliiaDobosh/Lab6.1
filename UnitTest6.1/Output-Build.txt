@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: Lab6.1, Configuration: Debug Win32 ------
+1>Lab6.1.cpp
+1>C:\Users\HP\source\repos\Lab6.1\Lab6.1.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HP\source\repos\Lab6.1\Lab6.1.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+1>C:\Users\HP\source\repos\Lab6.1\Lab6.1.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+1>Lab6.1.vcxproj -> C:\Users\HP\source\repos\Lab6.1\Debug\Lab6.1.exe
+1>Done building project "Lab6.1.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
